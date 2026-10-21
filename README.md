@@ -14,7 +14,7 @@ La práctica (crear tu repositorio, hacer un commit y abrir un pull request) no 
 
 **Nivel.** Principiante. Es para diseñadoras y diseñadores sin experiencia previa con Git. Todo se hace en el navegador, en computador o celular. No se instala nada ni se usa la terminal.
 
-**Duración.** 5 minutos, de 4:00 a 4:05 p. m., hora de Colombia, el jueves 5 de noviembre de 2026.
+**Duración.** 5 minutos, en el primer bloque del taller.
 
 **Cómo se evalúa.** Con el chequeo en el chat: cada persona escribe "Sí" o "Todavía no" según tenga o no cuenta de GitHub. Es un chequeo para ajustar el ritmo, no una nota. Este bloque no tiene evidencia propia; la evidencia de la sesión es el enlace del pull request, que se produce más adelante.
 
