@@ -4,7 +4,7 @@ Nombre propuesto del repositorio: `por-que-github`.
 
 Este repositorio acompaña el bloque 1 (Contexto) del workshop gratuito "GitHub para diseñadores" de Interface School. Es el punto de partida de la sesión: explica qué te llevas, qué es un repositorio y por qué GitHub le sirve a quien diseña.
 
-La práctica (crear tu repositorio, hacer un commit y abrir un pull request) no está aquí. Vive en el repositorio plantilla del workshop, que se comparte durante la sesión.
+La práctica (crear tu repositorio, hacer un commit y abrir un pull request) no está aquí. La práctica está en el repositorio plantilla del taller.
 
 > Este repositorio es público. Si creas uno parecido, no subas datos de clientes ni información confidencial.
 
